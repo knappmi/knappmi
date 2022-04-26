@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knappmi
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Ansible
+- 👀 I’m interested in DevOps and IaC
+- 🌱 I’m currently learning C++ Game Development
 - 📫 How to reach me knappmi14@gmail.com
 
 <!---
