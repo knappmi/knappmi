@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knappmi
-- 👀 I’m interested in DevOps and IaC
-- 🌱 I’m currently learning C++ Game Development
+- 👀 I’m interested in DevOps and IaC optimization strategies
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me knappmi14@gmail.com
 
 <!---
