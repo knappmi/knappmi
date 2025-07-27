@@ -18,7 +18,7 @@ I'm currently working on platform-level observability and deployment automation 
 A minimal Kubernetes-based canary deployment setup using Helm, GitHub Actions, and Prometheus. Includes rollback logic based on HTTP error rates and Grafana dashboards for rollout health.
 
 ### [`IngrediGuard`](https://github.com/knappmi/IngrediGuard)
-A Python-based Kivy (Android) application that allows users to input Menus and parse allergies based on input. Especially useful for commercial establishments that need to easily parse sensitive food items for customers with dietary restrictions.
+A Python-based Kivy (Android) application that allows users to upload Menus and parse allergies based on input. Especially useful for commercial establishments that need to easily parse sensitive food items for customers with dietary restrictions.
 
 ### [`MLOps Lab`](https://github.com/knappmi/mlops_lab)
 A full-stack MLOps pipeline built to support the entire machine learning lifecycle — from data preprocessing to automated model deployment — using GitHub Actions, Docker, and Kubernetes.
